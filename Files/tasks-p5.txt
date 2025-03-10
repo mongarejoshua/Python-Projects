@@ -1,0 +1,1 @@
+["Wake up at 6 am", "Pray", "Take breakfast", "Take a shower", "Go to the gym", "Work on my school and personal projects", "ride"]
