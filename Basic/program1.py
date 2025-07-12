@@ -30,6 +30,7 @@ while True:
 
     elif playing.lower() == 'no' or 'q':
         print('Goodbye')
+        break
     else:
         print('Invalid choice entry, please try again.')
     
