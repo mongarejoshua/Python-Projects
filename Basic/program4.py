@@ -9,10 +9,10 @@ scissors wins over paper
 
 choices = ['rock', 'paper', 'scissors']
 user_choice = ''
-limit = 3
+limit = 6
 count = 0
 
-print('---YOU HAVE THREE ATTEMPTS TO PLAY---\n')
+print('---YOU HAVE SIX ATTEMPTS TO PLAY---\n')
 
 while count < limit:
     computer_choice = random.choice(choices) # random.choice() is an inbuilt function
